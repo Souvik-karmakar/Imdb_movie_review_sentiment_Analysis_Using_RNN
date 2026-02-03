@@ -72,7 +72,7 @@ The application allows users to:
 - View prediction confidence in real time
 
 🔗 **App Glimpse**  
-👉 https://imdbmoviereviewsentimentanalysisusingrnn-n8zjsbkpnukjfkamapfdm.streamlit.app/
+![Prediction Result](Sentiment_prediction_RNN.png)
 
 ---
 
